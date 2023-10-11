@@ -30,7 +30,7 @@ menu:
       url: /about
       weight: 4
 params:
-  author: Fastbyte01
+  author: 徐园
   avatar: /images/me/Golang.png
   baidu_verification: ''
   bing_verification: ''
@@ -52,20 +52,20 @@ params:
   home_mode: ''
   image:
     height: 600
-    url: cover.png
+    url: /images/me/Golang.png
     width: 800
   keywords: ''
   license: Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/"
     target="_blank">CC BY-NC 4.0</a>
   logo:
     height: 40
-    url: logo.png
+    url: /images/me/Golang.png
     width: 127
   pinterest_verification: ''
   publisher:
     logo:
       height: 40
-      url: logo.png
+      url: /images/me/Golang.png
       width: 127
     name: Fastbyte01
   share:
@@ -97,4 +97,4 @@ params:
     visitor: yes
   yandex_verification: ''
 author:
-  name: Fastbyte01
+  name: 徐园
